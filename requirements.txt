@@ -1,0 +1,7 @@
+baostock==0.8.8
+matplotlib==3.2.2
+numpy==1.19.3
+pandas==1.0.5
+torch==1.7.0+cu101
+tqdm==4.48.2
+tushare==1.2.62

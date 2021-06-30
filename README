@@ -1,0 +1,10 @@
+运行说明：
+
+#进入项目所在文件夹：
+cd C:\Users\h'y\Desktop\深度学习期末大作业
+#数据下载：
+python Dataset.py
+#model训练：
+python Model.py
+#模型实际效果测试：
+python backtest.py
