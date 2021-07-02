@@ -17,7 +17,7 @@ data_path = './data/stocks/'
 train_data_path = './data/train_data/'
 
 # 使用tushare的taken码（vip版）
-apikey = 'e826b583d264906bbf69b8d91c22a29c4c25839a7f13e02c7d869e85'
+apikey = ''
 if os.path.exists('tushare_apikey.txt'):
     with open('tushare_apikey.txt', 'r') as f:
         apikey = f.read()
